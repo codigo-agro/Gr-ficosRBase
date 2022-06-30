@@ -15,3 +15,7 @@
 ## Ajustando margens e resolução de figuras no R
 
 [<img src="https://img.youtube.com/vi/HpR3c-IOuz4/maxresdefault.jpg" width="300">](https://www.youtube.com/watch?v=HpR3c-IOuz4)
+
+## Usando o pacote básico do R para produção de gráficos barras (parte 02)
+
+[<img src="https://img.youtube.com/vi/QdYcUNhKvw8/maxresdefault.jpg" width="300">](https://www.youtube.com/watch?v=QdYcUNhKvw8)
