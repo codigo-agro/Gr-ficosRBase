@@ -19,3 +19,7 @@
 ## Usando o pacote básico do R para produção de gráficos barras (parte 02)
 
 [<img src="https://img.youtube.com/vi/QdYcUNhKvw8/maxresdefault.jpg" width="300">](https://www.youtube.com/watch?v=QdYcUNhKvw8)
+
+## Edição de decimais e adição de barras de variação - gráfico de dispersão (Parte 03)
+
+[<img src="https://img.youtube.com/vi/SJUqxKx3VyA/maxresdefault.jpg" width="300">](https://www.youtube.com/watch?v=SJUqxKx3VyA)
