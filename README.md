@@ -23,3 +23,7 @@
 ## Edição de decimais e adição de barras de variação - gráfico de dispersão (Parte 03)
 
 [<img src="https://img.youtube.com/vi/SJUqxKx3VyA/maxresdefault.jpg" width="300">](https://www.youtube.com/watch?v=SJUqxKx3VyA)
+
+## Criando e editando gráficos de regressão com o pacote básico do R
+
+[<img src="https://img.youtube.com/vi/FwrDHfwbO64/maxresdefault.jpg" width="300">](https://www.youtube.com/watch?v=FwrDHfwbO64)
